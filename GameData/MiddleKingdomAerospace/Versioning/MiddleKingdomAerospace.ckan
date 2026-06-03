@@ -1,0 +1,9 @@
+depends:
+  - name: ModuleManager
+  - name: CommunityResourcePack
+  - name: B9PartSwitch
+  - name: Waterfall
+  - name: Shabby
+recommends:
+  - name: HullcamVDSContinued
+  - name: NeptuneCamera
