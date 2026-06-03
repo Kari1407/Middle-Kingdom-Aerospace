@@ -15,6 +15,5 @@ jobs:
   build:
     uses: KSPModdingLibs/KSPBuildTools/.github/workflows/build.yml@0.0.4
     with:
-      solution-file-path: 'Source/BigBlueRefilled.sln'
       use-ckan: true
       artifacts: GameData LICENSE* README* CHANGELOG* Extras
