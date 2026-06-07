@@ -10,6 +10,7 @@ Development has already started with CZ-5 and will focus on newer generation fir
 - ModuleManager
 - Community Resource Pack
 - Shabby
+- Simple Adjustable Fairings
 
 ### Recommended Mods:
 - HullCameraVDS & NeptuneCamera
