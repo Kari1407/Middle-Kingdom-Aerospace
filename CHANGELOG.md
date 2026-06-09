@@ -1,5 +1,6 @@
-v0.1.0
-- Initial LM5 Release
+v0.3.0
+- Added Real Scale Support
+- Added RO Support
 
 v0.2.0
 - Fixed craft not being recognized by CommNet
@@ -7,6 +8,5 @@ v0.2.0
 - Fixed Heat Resistance
 - Ported fairings to SAF
 
-v0.3.0
-- Added Real Scale Support
-- Added RO Support
+v0.1.0
+- Initial LM5 Release
