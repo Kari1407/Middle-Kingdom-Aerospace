@@ -1,3 +1,11 @@
+identifier: MiddleKingdomAerospace
+name: Middle Kingdom Aerospace - MKA
+license: All Rights Reserved
+abstract: Modernized Chinese Rockets for Kerbal Space Program.
+$vref: '#/ckan/ksp-avc'
+author:
+  - Kari
+  - Questin
 depends:
   - name: ModuleManager
   - name: CommunityResourcePack
