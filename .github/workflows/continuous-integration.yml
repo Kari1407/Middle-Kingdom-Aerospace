@@ -16,5 +16,5 @@ jobs:
     uses: KSPModdingLibs/KSPBuildTools/.github/workflows/build.yml@0.0.4
     with:
       use-msbuild: false
-      use-ckan: true
+      use-ckan: false
       artifacts: GameData LICENSE* README* CHANGELOG* Extras
