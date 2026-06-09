@@ -13,4 +13,4 @@ jobs:
     with:
       use-msbuild: false
       version-string: ${{ inputs.version-string }}
-      artifacts: GameData LICENSE* README* CHANGELOG* Extras
+      artifacts: GameData README* 
