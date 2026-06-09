@@ -17,4 +17,4 @@ jobs:
     with:
       use-msbuild: false
       use-ckan: true
-      artifacts: GameData README*
+      artifacts: GameData LICENSE* README* CHANGELOG* Extras

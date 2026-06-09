@@ -4,6 +4,9 @@ depends:
   - name: B9PartSwitch
   - name: Waterfall
   - name: Shabby
+  - name: SimpleAdjustableFairings
 recommends:
   - name: HullcamVDSContinued
   - name: NeptuneCamera
+  supports:
+  - name: RealismOverhaul
