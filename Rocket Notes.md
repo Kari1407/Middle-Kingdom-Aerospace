@@ -308,6 +308,74 @@ See PH.1 for First and Second Stages
 * 20.5m Height (5B)
 
 # Long March 6
+* 29.3m Height (Standard)
+  
+* ~50m Height (6A Standard)
+* ~52m Height (6A Extended Fairing)
+* ~55m Height (6A Samsung Tandem Fairing)
+
+* 43.4m Height (6C)
+
+
+### Boosters (6A)
+* 2m Diameter
+* 15.1m Height
+* 4x FG-112 Solid Motor Boosters
+
+### 1st Stage
+* 3.35m Diameter
+* 13.431m Height (Standard)
+
+* 30.5m Height (6A)
+
+* x < 30.5m Height (6C)
+
+* 28m Height (6X)
+  
+* 1x YF-100GA (Standard)
+* 2x YF-100GA (6A, 6C)
+* 2x YF-100K? (6X)
+
+  
+### 2nd Stage
+* 2.25m Diameter (Standard)
+* 8.925m Height (Standard)
+  
+* 3.35m Diameter (6A)
+* 8.43m Height (6A)
+  
+* 2.9m Diameter (6C)
+* ?? Height (6C)
+
+* 1x YF-115 (6, 6A, 6C)
+
+* 2x YF-115 (6X)
+
+### 3rd Stage
+* 2.25m Diameter
+* 0.786m Height (Standard)
+* 1x YF-50E
+
+### Fairings 
+***YES THERE ARE A LOT OF FAIRINGS***
+Standard:
+* 2.6m Diameter 
+* 2.9m Diameter (Widened)
+* 6.145m Height
+
+6A: 
+* 3.35m Diameter
+* 3.8m Diameter
+* 4.2m Diameter
+* 5.2m Diameter
+* 11.07m Height (Standard 6A)
+* 13.07m Height (Extended 6A)
+* 16.07m Height (Samsung Tandem)
+
+6C:
+* 2.9m Diameter
+* 3.35m Diameter
+* 3.8m Diameter
 
 # Long March 7
 
@@ -390,11 +458,12 @@ See PH.1 for First and Second Stages
 
 ### Fairings
 * 3.35m Diameter
-* 8.24m Height 
+* 8.24m Height
+
 * 4.2m Diameter (2E)
 * 8.7m Height (2E)
 
-#ZQ-3
+# ZQ-3
 * 66.1m Height (Y1/2)
 
 ### 1st Stage
