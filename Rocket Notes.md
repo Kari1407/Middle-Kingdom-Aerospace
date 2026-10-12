@@ -4,8 +4,8 @@ A list of all chinese rockets planned to be added. They are NOT in order of prod
 
 Main source is [this wiki](https://www.huijiwiki.com/)
 
-
-
+# Long March Family:
+------------------------------------------------------
 # Long March 1
 * 29.86m Height
 
@@ -313,10 +313,103 @@ See PH.1 for First and Second Stages
 
 # Long March 8
 
-# Long March 9
+# Long March 9 (This may be very wrong, take with a grain of salt)
+* ~110m Height (RUMORED)
+
+### 1st Stage
+* 10.6m Diameter
+* 30x YF-215
+
+### 2nd Stage
+* 10.6m Diameter
+* 2x YF-215
+
+*** 3rd Stage
+* 10.6m Diameter
+* 4x YF-79
+
+### Fairings
+* ***MAX*** of 16m Diameter
 
 # Long March 10
+* 92.5m Height (Standard)
+* ***67***m Height (10A)
+* 70.2m Height (10B)
+
+### Boosters (For Standard)
+* 5m Diameter
+
+### 1st Stage
+* 5m Diameter
+* Uhhh idk Height (Need to Pull later)
+* 7x YF-100K
+
+### 2nd Stage
+* 5m Diameter
+* Uhhh idk Height (Need to pull from Model)
+* ?x YF-??? Hydrolox (Standard)
+* ?x YF-??? Kerolox (10A)
+* 1x YF-219 (I ***HATE*** this engine so much) (10B)
+
+### 3rd Stage (Standard)
+* 5m Diameter
+* Uhhh idk Height (Need to pull from Model)
+* 3x YF-75E
+
+### Fairings
+* ? > 5.2m Diameter (Standard) 
+* 5.2m Diameter (10A/B)
+* Uhhh idk Height (Need to pull from Model)
 
 # Long March 11
 
 # Long March 12
+
+------------------------------------------------------
+
+# Landspace Family:
+
+------------------------------------------------------
+
+# ZQ-2
+* 49.5m Height
+* 55.9m Height (2E)
+
+### 1st Stage
+* 3.35m Diameter
+* Uhhhh Idk Height Rn
+* 4x TQ-12
+* 4x TQ-12A (2+, 2E)
+* 4x TQ-12B (2E+?)
+
+### 2nd Stage
+* 3.35m Diameter
+* Uhhh idk Height Rn
+* 1x TQ-12(V) + TQ-11
+* 1x TQ-15A (2E)
+
+### Fairings
+* 3.35m Diameter
+* 8.24m Height 
+* 4.2m Diameter (2E)
+* 8.7m Height (2E)
+
+#ZQ-3
+* 66.1m Height (Y1/2)
+
+### 1st Stage
+* 4.5m Diameter
+* Uhhh idk Height Rn (need to pull model height)
+* 9x TQ-12A
+* 9x TQ-12B (3E)
+
+### 2nd Stage
+* 4.5m Diameter
+* Uhh idk Height Rn (refer to 1st stage note)
+* 1x TQ-15A
+
+### Fairings
+* 5.2m Diameter
+* Uhhh idk Height Rn (refer to model to update)
+
+------------------------------------------------------
