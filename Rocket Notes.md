@@ -402,22 +402,26 @@ Standard:
 # Long March 10
 * 92.5m Height (Standard)
 * ***67***m Height (10A)
-* 70.2m Height (10B)
+* 63.6m Height (10B Y1)
+* 70.2m Height (10B EXTENDED)
 
 ### Boosters (For Standard)
 * 5m Diameter
+* (Basically just 10A/B Boosters strapped together minus Recovery Hardware)
 
 ### 1st Stage
 * 5m Diameter
 * Uhhh idk Height (Need to Pull later)
-* 7x YF-100K
+* 5x YF-100N (3x N, 2x P)
+* 2x YF-100L 
 
 ### 2nd Stage
 * 5m Diameter
 * Uhhh idk Height (Need to pull from Model)
 * ?x YF-??? Hydrolox (Standard)
 * ?x YF-??? Kerolox (10A)
-* 1x YF-219 (I ***HATE*** this engine so much) (10B)
+* 1x YF-219 (I ***HATE*** this engine so much) (10B Y1)
+* 1x YF-219E (10B Y?)
 
 ### 3rd Stage (Standard)
 * 5m Diameter
@@ -427,7 +431,8 @@ Standard:
 ### Fairings
 * ? > 5.2m Diameter (Standard) 
 * 5.2m Diameter (10A/B)
-* Uhhh idk Height (Need to pull from Model)
+* 12.5m Height (10B Standard)
+* 18.5m Height (10B Extended)
 
 # Long March 11
 
