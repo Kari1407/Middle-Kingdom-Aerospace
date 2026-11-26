@@ -1,275 +1,279 @@
 Localization
 {
-    something-somewhere
-    {
-    
-        //Manufacturer/Agency
-
-        #LOC_MKA_manufacturer_title = 
-        #LOC_MKA_manufacturer_description = 
-        
-        //Plugin
-
-        #LOC_MKA_NextEngineMode = 
-        #LOC_MKA_PreviousEngineMode = 
-        #LOC_MKA_currentEngineDisplay = 
-
-        //B9Ps
-
-        #LOC_MKA_switcher_H51_description = 
-        #LOC_MKA_switcher_H51_5_Enabled = 
-        #LOC_MKA_switcher_H51_5_Disabled = 
-        #LOC_MKA_switcher_H51_5B_Enabled = 
-        #LOC_MKA_switcher_H51_5B_Disabled = 
-        #LOC_MKA_switcher_K31_5 = 
-        #LOC_MKA_switcher_K31_5B = 
-        #LOC_MKA_switcher_K31_RED = 
-        #LOC_MKA_26_CZ5_FAIRING_EXTENDED_title = 
-        #LOC_MKA_26_CZ5_FAIRING_title = 
-        #LOC_MKA_26_CZ5B_FAIRING_title = 
-
-        
-        #LOC_MKA_CZ10_FAIRINGS_title = 
-        #LOC_MKA_CZ10_FAIRINGS_EXTENDED_title = 
-
-        #LOC_MKA_ZQ3_MetalDecal_title = 
-        #LOC_MKA_ZQ3_MetalBlank_title = 
-        #LOC_MKA_ZQ3_WhiteDecal_title = 
-        #LOC_MKA_ZQ3_WhiteBlank_title = 
-
-        #LOC_MKA_switcher_K21_7 = 
-        #LOC_MKA_switcher_K21_7R = 
-        #LOC_MKA_switcher_K31_7 = 
-        #LOC_MKA_switcher_K31_7_ALT = 
-        #LOC_MKA_switcher_K31_7_ALT_2 = 
-
-        #LOC_MKA_switcher_K21_7_Motors = 
-        #LOC_MKA_switcher_K21_7_MESH = 
-        #LOC_MKA_switcher_K21_7A_MESH = 
-
-        #LOC_MKA_switcher_K31_8 = 
-        #LOC_MKA_switcher_K31_8A = 
-
-        #LOC_MKA_switcher_clamps = 
-
-        #LOC_MKA_switcher_payload = 
-
-
-        #LOC_MKA_switcher_boosters = 
-        #LOC_MKA_switcher_boosters_4 = 
-        #LOC_MKA_switcher_boosters_2 = 
-        #LOC_MKA_switcher_boosters_2_ALT = 
-
-        #LOC_MKA_switcher_YF115_Gimbal = 
-        
-        #LOC_MKA_switcher_decals = 
-        #LOC_MKA_switcher_decals_names = 
-        #LOC_MKA_switcher_disabled = 
-        #LOC_MKA_switcher_enabled = 
-        #LOC_MKA_switcher_blank = 
-        #LOC_MKA_node_switch =
-
-        //Parts 
-
-        //CZ 5
-
-        #LOC_MKA_26_CZ5_PAYLOAD_ADAPTER_title = 
-        #LOC_MKA_26_CZ5_PAYLOAD_ADAPTER_description = 
-        #LOC_MKA_26_CZ5_PAYLOAD_ADAPTER_tags = 
-
-        #LOC_MKA_26_CZ5_FAIRINGS_title = 
-        #LOC_MKA_26_CZ5_FAIRINGS_description = 
-        #LOC_MKA_26_CZ5_FAIRINGS_tags = 
-
-        #LOC_MKA_26_CZ5_H52_title = 
-        #LOC_MKA_26_CZ5_H52_description = 
-        #LOC_MKA_26_CZ5_H52_tags = 
- 
-        #LOC_MKA_26_CZ5_H5_INTERSTAGE_title = 
-        #LOC_MKA_26_CZ5_H5_INTERSTAGE_description = 
-        #LOC_MKA_26_CZ5_H5_INTERSTAGE_tags = 
-
-        #LOC_MKA_26_CZ5_H51_title = 
-        #LOC_MKA_26_CZ5_H51_description = 
-        #LOC_MKA_26_CZ5_H51_tags = 
+	something-somewhere
+	{
+		//Manufacturer/Agency
 
-        #LOC_MKA_26_CZ5_K31_title = 
-        #LOC_MKA_26_CZ5_K31_description = 
-        #LOC_MKA_26_CZ5_K31_tags = 
+		#LOC_MKA_manufacturer_title = 
+		#LOC_MKA_manufacturer_description = 
 
-        #LOC_MKA_26_CZ5_K31_FIN_title = 
-        #LOC_MKA_26_CZ5_K31_FIN_description = 
-        #LOC_MKA_26_CZ5_K31_FIN_tags = 
+		//Plugin
 
-        #LOC_MKA_26_CZ5_YF75D_title = 
-        #LOC_MKA_26_CZ5_YF75D_description = 
-        #LOC_MKA_26_CZ5_YF75D_tags = 
+		#LOC_MKA_NextEngineMode = 
+		#LOC_MKA_PreviousEngineMode = 
+		#LOC_MKA_currentEngineDisplay = 
 
-        #LOC_MKA_26_CZ5_YF77_MOUNT_title = 
-        #LOC_MKA_26_CZ5_YF77_MOUNT_description = 
-        #LOC_MKA_26_CZ5_YF77_MOUNT_tags = 
+		//B9Ps
 
-        #LOC_MKA_26_CZ5_YF100_MOUNT_title = 
-        #LOC_MKA_26_CZ5_YF100_MOUNT_description = 
-        #LOC_MKA_26_CZ5_YF100_MOUNT_tags = 
+		#LOC_MKA_switcher_H51_description = 
+		#LOC_MKA_switcher_H51_5_Enabled = 
+		#LOC_MKA_switcher_H51_5_Disabled = 
+		#LOC_MKA_switcher_H51_5B_Enabled = 
+		#LOC_MKA_switcher_H51_5B_Disabled = 
+		#LOC_MKA_switcher_K31_5 = 
+		#LOC_MKA_switcher_K31_5B = 
+		#LOC_MKA_switcher_K31_RED = 
+		#LOC_MKA_26_CZ5_FAIRING_EXTENDED_title = 
+		#LOC_MKA_26_CZ5_FAIRING_title = 
+		#LOC_MKA_26_CZ5B_FAIRING_title = 
 
-        #LOC_MKA_YF100_title =
-        #LOC_MKA_YF100_description =
-        #LOC_MKA_YF100_tags = 
+		#LOC_MKA_CZ8_FAIRING_DEFAULT = 
+		#LOC_MKA_CZ8_FAIRING_SMALL = 
 
-        // CZ7
+		#LOC_MKA_CZ10_FAIRINGS_title = 
+		#LOC_MKA_CZ10_FAIRINGS_EXTENDED_title = 
 
-        #LOC_MKA_CZ7_PAYLOAD_ADAPTER_title = 
-        #LOC_MKA_CZ7_PAYLOAD_ADAPTER_description = 
-        #LOC_MKA_CZ7_PAYLOAD_ADAPTER_tags = 
+		#LOC_MKA_switcher_mount = 
+		#LOC_MKA_switcher_tank = 
+		#LOC_MKA_switcher_tank_10A = 
+		#LOC_MKA_switcher_tank_10B = 
 
-        #LOC_MKA_CZ7_FAIRINGS_title = 
-        #LOC_MKA_CZ7_FAIRINGS_description = 
-        #LOC_MKA_CZ7_FAIRINGS_tags = 
+		#LOC_MKA_ZQ3_MetalDecal_title = 
+		#LOC_MKA_ZQ3_MetalBlank_title = 
+		#LOC_MKA_ZQ3_WhiteDecal_title = 
+		#LOC_MKA_ZQ3_WhiteBlank_title = 
 
-        #LOC_MKA_CZ7_K21_CORE_title = 
-        #LOC_MKA_CZ7_K21_CORE_description = 
-        #LOC_MKA_CZ7_K21_CORE_tags = 
+		#LOC_MKA_switcher_K21_7 = 
+		#LOC_MKA_switcher_K21_7R = 
+		#LOC_MKA_switcher_K31_7 = 
+		#LOC_MKA_switcher_K31_7_ALT = 
+		#LOC_MKA_switcher_K31_7_ALT_2 = 
 
-        #LOC_MKA_CZ7_K21_FIN_title = 
-        #LOC_MKA_CZ7_K21_FIN_description = 
-        #LOC_MKA_26_CZ7_K31_FIN_tags = 
+		#LOC_MKA_switcher_K21_7_Motors = 
+		#LOC_MKA_switcher_K21_7_MESH = 
+		#LOC_MKA_switcher_K21_7A_MESH = 
 
-        #LOC_MKA_CZ7_K21_YF100_title = 
-        #LOC_MKA_CZ7_K21_YF100_description = 
-        #LOC_MKA_CZ7_K21_YF100_tags = 
+		#LOC_MKA_switcher_K31_8 = 
+		#LOC_MKA_switcher_K31_8A = 
 
-        #LOC_MKA_CZ7_K31_CORE_title = 
-        #LOC_MKA_CZ7_K31_CORE_description = 
-        #LOC_MKA_CZ7_K31_CORE_tags = 
+		#LOC_MKA_switcher_clamps = 
 
-        #LOC_MKA_CZ7_K31_YF100_title = 
-        #LOC_MKA_CZ7_K31_YF100_description = 
-        #LOC_MKA_CZ7_K31_YF100_tags = 
+		#LOC_MKA_switcher_payload = 
 
-        #LOC_MKA_CZ7_K32_CORE_title = 
-        #LOC_MKA_CZ7_K32_CORE_description = 
-        #LOC_MKA_CZ7_K32_CORE_tags = 
+		#LOC_MKA_switcher_boosters = 
+		#LOC_MKA_switcher_boosters_4 = 
+		#LOC_MKA_switcher_boosters_2 = 
+		#LOC_MKA_switcher_boosters_2_ALT = 
 
-        #LOC_MKA_CZ7_INTERSTAGE_SKIRT_title = 
-        #LOC_MKA_CZ7_INTERSTAGE_SKIRT_description = 
-        #LOC_MKA_CZ7_INTERSTAGE_SKIRT_tags = 
+		#LOC_MKA_switcher_YF115_Gimbal = 
 
-        #LOC_MKA_YF115_title = 
-        #LOC_MKA_YF115_description = 
-        #LOC_MKA_YF115_tags = 
+		#LOC_MKA_switcher_decals = 
+		#LOC_MKA_switcher_decals_names = 
+		#LOC_MKA_switcher_disabled = 
+		#LOC_MKA_switcher_enabled = 
+		#LOC_MKA_switcher_blank = 
+		#LOC_MKA_node_switch = 
 
-        #LOC_MKA_CZ7A_K21_CORE_title = 
-        #LOC_MKA_CZ7A_K21_CORE_description = 
-        #LOC_MKA_CZ7A_K21_CORE_tags = 
+		//Parts
 
-        #LOC_MKA_CZ7A_K32S_CORE_title = 
-        #LOC_MKA_CZ7A_K32S_CORE_description = 
-        #LOC_MKA_CZ7A_K32S_CORE_tags = 
+		//CZ 5
 
-        #LOC_MKA_CZ7A_INTERSTAGE_SKIRT_title = 
-        #LOC_MKA_CZ7A_INTERSTAGE_SKIRT_description = 
-        #LOC_MKA_CZ7A_INTERSTAGE_SKIRT_tags = 
+		#LOC_MKA_26_CZ5_PAYLOAD_ADAPTER_title = 
+		#LOC_MKA_26_CZ5_PAYLOAD_ADAPTER_description = 
+		#LOC_MKA_26_CZ5_PAYLOAD_ADAPTER_tags = 
 
-        #LOC_MKA_CZ7A_H33_CORE_title = 
-        #LOC_MKA_CZ7A_H33_CORE_description = 
-        #LOC_MKA_CZ7A_H33_CORE_tags = 
+		#LOC_MKA_26_CZ5_FAIRINGS_title = 
+		#LOC_MKA_26_CZ5_FAIRINGS_description = 
+		#LOC_MKA_26_CZ5_FAIRINGS_tags = 
 
-        #LOC_MKA_CZ7A_FAIRINGS_title = 
-        #LOC_MKA_CZ7A_FAIRINGS_description = 
-        #LOC_MKA_CZ7A_FAIRINGS_tags = 
+		#LOC_MKA_26_CZ5_H52_title = 
+		#LOC_MKA_26_CZ5_H52_description = 
+		#LOC_MKA_26_CZ5_H52_tags = 
 
-        // CZ-8
+		#LOC_MKA_26_CZ5_H5_INTERSTAGE_title = 
+		#LOC_MKA_26_CZ5_H5_INTERSTAGE_description = 
+		#LOC_MKA_26_CZ5_H5_INTERSTAGE_tags = 
 
-        #LOC_MKA_CZ8_FAIRINGS_title = 
-        #LOC_MKA_CZ8_FAIRINGS_description = 
-        #LOC_MKA_CZ8_FAIRINGS_tags = 
+		#LOC_MKA_26_CZ5_H51_title = 
+		#LOC_MKA_26_CZ5_H51_description = 
+		#LOC_MKA_26_CZ5_H51_tags = 
 
-        // CZ-10
+		#LOC_MKA_26_CZ5_K31_title = 
+		#LOC_MKA_26_CZ5_K31_description = 
+		#LOC_MKA_26_CZ5_K31_tags = 
 
-        // CZ-10A
+		#LOC_MKA_26_CZ5_K31_FIN_title = 
+		#LOC_MKA_26_CZ5_K31_FIN_description = 
+		#LOC_MKA_26_CZ5_K31_FIN_tags = 
 
-        // CZ-10B
+		#LOC_MKA_26_CZ5_YF75D_title = 
+		#LOC_MKA_26_CZ5_YF75D_description = 
+		#LOC_MKA_26_CZ5_YF75D_tags = 
 
-        #LOC_MKA_CZ10B_AFT_title = 
-        #LOC_MKA_CZ10B_AFT_description = 
-        #LOC_MKA_CZ10B_AFT_tags = 
+		#LOC_MKA_26_CZ5_YF77_MOUNT_title = 
+		#LOC_MKA_26_CZ5_YF77_MOUNT_description = 
+		#LOC_MKA_26_CZ5_YF77_MOUNT_tags = 
 
-        #LOC_MKA_CZ10B_CORE_title = 
-        #LOC_MKA_CZ10B_CORE_description = 
-        #LOC_MKA_CZ10B_CORE_tags = 
+		#LOC_MKA_26_CZ5_YF100_MOUNT_title = 
+		#LOC_MKA_26_CZ5_YF100_MOUNT_description = 
+		#LOC_MKA_26_CZ5_YF100_MOUNT_tags = 
 
-        #LOC_MKA_CZ10B_INTERSTAGE_title = 
-        #LOC_MKA_CZ10B_INTERSTAGE_description = 
-        #LOC_MKA_CZ10B_INTERSTAGE_tags = 
+		#LOC_MKA_YF100_title = 
+		#LOC_MKA_YF100_description = 
+		#LOC_MKA_YF100_tags = 
 
-        #LOC_MKA_CZ10B_FIN_title = 
-        #LOC_MKA_CZ10B_FIN_description = 
-        #LOC_MKA_CZ10B_FIN_tags = 
+		// CZ7
 
-        #LOC_MKA_CZ10B_ARM_title = 
-        #LOC_MKA_CZ10B_ARM_description = 
-        #LOC_MKA_CZ10B_ARM_tags = 
+		#LOC_MKA_CZ7_PAYLOAD_ADAPTER_title = 
+		#LOC_MKA_CZ7_PAYLOAD_ADAPTER_description = 
+		#LOC_MKA_CZ7_PAYLOAD_ADAPTER_tags = 
 
-        #LOC_MKA_CZ10B_MOUNT_title = 
-        #LOC_MKA_CZ10B_MOUNT_description = 
-        #LOC_MKA_CZ10B_MOUNT_tags = 
+		#LOC_MKA_CZ7_FAIRINGS_title = 
+		#LOC_MKA_CZ7_FAIRINGS_description = 
+		#LOC_MKA_CZ7_FAIRINGS_tags = 
 
-        #LOC_MKA_CZ10B_S2_title = 
-        #LOC_MKA_CZ10B_S2_description = 
-        #LOC_MKA_CZ10B_S2_tags = 
+		#LOC_MKA_CZ7_K21_CORE_title = 
+		#LOC_MKA_CZ7_K21_CORE_description = 
+		#LOC_MKA_CZ7_K21_CORE_tags = 
 
-        #LOC_MKA_CZ10B_FAIRINGS_title = 
-        #LOC_MKA_CZ10B_FAIRINGS_description = 
-        #LOC_MKA_CZ10B_FAIRINGS_tags = 
+		#LOC_MKA_CZ7_K21_FIN_title = 
+		#LOC_MKA_CZ7_K21_FIN_description = 
+		#LOC_MKA_CZ7_K21_FIN_tags = 
 
-        #LOC_MKA_CZ10_YF_219_title = 
-        #LOC_MKA_CZ10_YF_219_description = 
-        #LOC_MKA_CZ10_YF_219_tags = 
+		#LOC_MKA_CZ7_K21_YF100_title = 
+		#LOC_MKA_CZ7_K21_YF100_description = 
+		#LOC_MKA_CZ7_K21_YF100_tags = 
 
-        #LOC_MKA_CZ10_YF_219_E_title = 
-        #LOC_MKA_CZ10_YF_219_E_description = 
-        #LOC_MKA_CZ10_YF_219_E_tags = 
+		#LOC_MKA_CZ7_K31_CORE_title = 
+		#LOC_MKA_CZ7_K31_CORE_description = 
+		#LOC_MKA_CZ7_K31_CORE_tags = 
 
-        // CZ-10C
+		#LOC_MKA_CZ7_K31_YF100_title = 
+		#LOC_MKA_CZ7_K31_YF100_description = 
+		#LOC_MKA_CZ7_K31_YF100_tags = 
 
-        // ZQ-3
+		#LOC_MKA_CZ7_K32_CORE_title = 
+		#LOC_MKA_CZ7_K32_CORE_description = 
+		#LOC_MKA_CZ7_K32_CORE_tags = 
 
-        #LOC_MKA_ZQ3_AFT_title = 
-        #LOC_MKA_ZQ3_AFT_description = 
-        #LOC_MKA_ZQ3_AFT_tags = 
+		#LOC_MKA_CZ7_INTERSTAGE_SKIRT_title = 
+		#LOC_MKA_CZ7_INTERSTAGE_SKIRT_description = 
+		#LOC_MKA_CZ7_INTERSTAGE_SKIRT_tags = 
 
-        #LOC_MKA_ZQ3_CORE_title = 
-        #LOC_MKA_ZQ3_CORE_description = 
-        #LOC_MKA_ZQ3_CORE_tags = 
+		#LOC_MKA_YF115_title = 
+		#LOC_MKA_YF115_description = 
+		#LOC_MKA_YF115_tags = 
 
-        #LOC_MKA_ZQ3_Interstage_title = 
-        #LOC_MKA_ZQ3_Interstage_description = 
-        #LOC_MKA_ZQ3_Interstage_tags = 
+		#LOC_MKA_CZ7A_K21_CORE_title = 
+		#LOC_MKA_CZ7A_K21_CORE_description = 
+		#LOC_MKA_CZ7A_K21_CORE_tags = 
 
-        #LOC_MKA_ZQ3_GridFin_title = 
-        #LOC_MKA_ZQ3_GridFin_description = 
-        #LOC_MKA_ZQ3_GridFin_tags = 
+		#LOC_MKA_CZ7A_K32S_CORE_title = 
+		#LOC_MKA_CZ7A_K32S_CORE_description = 
+		#LOC_MKA_CZ7A_K32S_CORE_tags = 
 
-        #LOC_MKA_ZQ3_Leg_title = 
-        #LOC_MKA_ZQ3_Leg_description = 
-        #LOC_MKA_ZQ3_Leg_tags = 
+		#LOC_MKA_CZ7A_INTERSTAGE_SKIRT_title = 
+		#LOC_MKA_CZ7A_INTERSTAGE_SKIRT_description = 
+		#LOC_MKA_CZ7A_INTERSTAGE_SKIRT_tags = 
 
-        #LOC_MKA_ZQ3_TQ15A_title = 
-        #LOC_MKA_ZQ3_TQ15A_description = 
-        #LOC_MKA_ZQ3_TQ15A_tags = 
+		#LOC_MKA_CZ7A_H33_CORE_title = 
+		#LOC_MKA_CZ7A_H33_CORE_description = 
+		#LOC_MKA_CZ7A_H33_CORE_tags = 
 
-        #LOC_MKA_ZQ3_UPPER_title = 
-        #LOC_MKA_ZQ3_UPPER_description = 
-        #LOC_MKA_ZQ3_UPPER_tags = 
+		#LOC_MKA_CZ7A_FAIRINGS_title = 
+		#LOC_MKA_CZ7A_FAIRINGS_description = 
+		#LOC_MKA_CZ7A_FAIRINGS_tags = 
 
-        #LOC_MKA_ZQ3_FAIRING_title = 
-        #LOC_MKA_ZQ3_FAIRING_description = 
-        #LOC_MKA_ZQ3_FAIRING_tags = 
+		// CZ-8
 
-        #LOC_MKA_ZQ3_Strake_title = 
-        #LOC_MKA_ZQ3_Strake_description = 
-        #LOC_MKA_ZQ3_Strake_tags = 
+		#LOC_MKA_CZ8_FAIRINGS_title = 
+		#LOC_MKA_CZ8_FAIRINGS_description = 
+		#LOC_MKA_CZ8_FAIRINGS_tags = 
 
-    }
+		// CZ-10
+
+		// CZ-10A
+
+		// CZ-10B
+
+		#LOC_MKA_CZ10B_AFT_title = 
+		#LOC_MKA_CZ10B_AFT_description = 
+		#LOC_MKA_CZ10B_AFT_tags = 
+
+		#LOC_MKA_CZ10B_CORE_title = 
+		#LOC_MKA_CZ10B_CORE_description = 
+		#LOC_MKA_CZ10B_CORE_tags = 
+
+		#LOC_MKA_CZ10B_INTERSTAGE_title = 
+		#LOC_MKA_CZ10B_INTERSTAGE_description = 
+		#LOC_MKA_CZ10B_INTERSTAGE_tags = 
+
+		#LOC_MKA_CZ10B_FIN_title = 
+		#LOC_MKA_CZ10B_FIN_description = 
+		#LOC_MKA_CZ10B_FIN_tags = 
+
+		#LOC_MKA_CZ10B_ARM_title = 
+		#LOC_MKA_CZ10B_ARM_description = 
+		#LOC_MKA_CZ10B_ARM_tags = 
+
+		#LOC_MKA_CZ10B_S2_title = 
+		#LOC_MKA_CZ10B_S2_description = 
+		#LOC_MKA_CZ10B_S2_tags = 
+
+		#LOC_MKA_CZ10B_FAIRINGS_title = 
+		#LOC_MKA_CZ10B_FAIRINGS_description = 
+		#LOC_MKA_CZ10B_FAIRINGS_tags = 
+
+		#LOC_MKA_CZ10_YF_219_title = 
+		#LOC_MKA_CZ10_YF_219_description = 
+		#LOC_MKA_CZ10_YF_219_tags = 
+
+		#LOC_MKA_CZ10_YF_219_E_title = 
+		#LOC_MKA_CZ10_YF_219_E_description = 
+		#LOC_MKA_CZ10_YF_219_E_tags = 
+
+		// CZ-10C
+
+		// ZQ-3
+
+		#LOC_MKA_TQ12A_title = 
+		#LOC_MKA_TQ12A_description = 
+		#LOC_MKA_TQ12A_tags = 
+
+		#LOC_MKA_ZQ3_AFT_title = 
+		#LOC_MKA_ZQ3_AFT_description = 
+		#LOC_MKA_ZQ3_AFT_tags = 
+
+		#LOC_MKA_ZQ3_CORE_title = 
+		#LOC_MKA_ZQ3_CORE_description = 
+		#LOC_MKA_ZQ3_CORE_tags = 
+
+		#LOC_MKA_ZQ3_Interstage_title = 
+		#LOC_MKA_ZQ3_Interstage_description = 
+		#LOC_MKA_ZQ3_Interstage_tags = 
+
+		#LOC_MKA_ZQ3_GridFin_title = 
+		#LOC_MKA_ZQ3_GridFin_description = 
+		#LOC_MKA_ZQ3_GridFin_tags = 
+
+		#LOC_MKA_ZQ3_Leg_title = 
+		#LOC_MKA_ZQ3_Leg_description = 
+		#LOC_MKA_ZQ3_Leg_tags = 
+
+		#LOC_MKA_ZQ3_TQ15A_title = 
+		#LOC_MKA_ZQ3_TQ15A_description = 
+		#LOC_MKA_ZQ3_TQ15A_tags = 
+
+		#LOC_MKA_ZQ3_UPPER_title = 
+		#LOC_MKA_ZQ3_UPPER_description = 
+		#LOC_MKA_ZQ3_UPPER_tags = 
+
+		#LOC_MKA_ZQ3_FAIRING_title = 
+		#LOC_MKA_ZQ3_FAIRING_description = 
+		#LOC_MKA_ZQ3_FAIRING_tags = 
+
+		#LOC_MKA_ZQ3_Strake_title = 
+		#LOC_MKA_ZQ3_Strake_description = 
+		#LOC_MKA_ZQ3_Strake_tags = 
+	}
 }
