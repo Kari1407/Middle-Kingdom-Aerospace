@@ -16,6 +16,7 @@ depends:
   - name: Waterfall
   - name: Shabby
   - name: SimpleAdjustableFairings
+  - name: AnimatedDecouplers
 recommends:
   - name: HullcamVDSContinued
   - name: NeptuneCamera

@@ -1,5 +1,15 @@
 # Changelog
 
+## Unreleased
+
+- Added CZ-10B
+- Added Zhuque-3
+- Added CZ-7A
+- Updated Materials for all parts
+- Updated CZ-7 models
+- Fixed thrustProviderModuleIndex in various engines
+-
+
 ## 0.4.0 - 2026-06-29
 
 - Add CZ-7
